@@ -1,6 +1,7 @@
 {
   "validateIndentation": 2,
   "disallowAnonymousFunctions": true,
+  "disallowCapitalizedComments": true,
   "disallowDanglingUnderscores": true,
   "disallowEmptyBlocks": true,
   "disallowFunctionDeclarations": true,
@@ -47,6 +48,8 @@
   "requireOperatorBeforeLineBreak": [
       "?",
       "=",
+      "+",
+      "-",
       "/",
       "*",
       "==",

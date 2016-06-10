@@ -1,11 +1,10 @@
 {
   "name": "angular-tooltips",
-  "version": "1.1.4",
+  "version": "0.1.25",
   "description": "Angular.js tooltips module.",
   "authors": [
     "Filippo Oretti <filippo.oretti@gmail.com",
-    "Dario Andrei <wouldgo84@gmail.com>",
-    "720kb"
+    "Dario Andrei <wouldgo84@gmail.com>"
   ],
   "keywords": [
     "tiptip",
@@ -26,11 +25,6 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests",
-    "tasks",
-    "gulpfile.js",
-    "conf",
-    "demo",
-    "*.html"
+    "tests"
   ]
 }
